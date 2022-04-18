@@ -1,0 +1,28 @@
+html {
+    min-height: 100%;
+    background-image: url(./mosque_top.jpg);
+    background-size: cover;
+ }
+
+.wrapper{
+    display: block;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    margin-top: 10%;
+    padding: 10px 15px;
+    background-color: aliceblue;
+}
+
+.button-primary {
+    background-color: red;
+    color: white;
+}
+
+footer { 
+    display: flex; 
+    justify-content: center; 
+    color: rgb(212, 208, 208);
+  } 
